@@ -1,4 +1,4 @@
-package com.my.security;
+package com.tsq.security;
 
 import java.security.MessageDigest;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package com.my.security;
+package com.tsq.security;
 /**
  * 特殊符号
  * @author tsq

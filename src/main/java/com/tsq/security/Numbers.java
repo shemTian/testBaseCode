@@ -1,4 +1,4 @@
-package com.my.security;
+package com.tsq.security;
 /**
  * 数字
  * @author tsq
